@@ -7,7 +7,6 @@
 
 ### 🧠 Currently Exploring
 - Resume parsing and job-matching tools using **spaCy** + **Flask**  
-- **Jenkins** pipelines and **CI/CD** automation  
 - Scalable backend APIs with **Python**, **Redis**, and **PostgreSQL**  
 - Real-world **system design** patterns and trade-offs  
 

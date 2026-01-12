@@ -1,8 +1,6 @@
 ### 👋 Hi there, I'm Harsha
 
-Backend Engineer at Johnson & Johnson building production APIs with Flask, GraphQL, and PostgreSQL. Fixed critical ETL pipeline 
-bugs causing 3-4x duplicate records and implemented database schema migrations for clinical trial systems. Built Ecommerce API with 
-91% test coverage and real-time WebSocket scaling architecture.
+
 
 #### 🛒 [E-commerce GraphQL API – System Design & Implementation](https://github.com/iamginjala/system-design-/tree/main/ecommerce-api)  
 A scalable GraphQL-based backend API for an e-commerce system.  
@@ -38,9 +36,10 @@ Curated materials and my own solutions for coding and system design interviews.
 
 ### 💼 Open To
 Full-time opportunities in:
-- **Backend Engineering**
+- **Cloud Engineering**
 - **Product Engineering**
 - **Platform / Infrastructure Roles**
+- 
 
 ---
 

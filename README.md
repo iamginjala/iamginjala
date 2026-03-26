@@ -6,7 +6,7 @@ Backend and DevOps Engineer with experience building scalable data pipelines, AP
 
 ###  Featured Projects
 
-#### 🤖 DocuMind – RAG-Based Document Q&A System
+#### [DocuMind – RAG-Based Document Q&A System](https://github.com/iamginjala/docu-mind)
 A document retrieval system that enables users to upload files and query them using semantic search and LLM-based responses.
 
 **Tech Stack:** FastAPI, LangGraph, PostgreSQL (pgvector), Docker, Kubernetes (KIND)

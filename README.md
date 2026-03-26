@@ -1,51 +1,69 @@
-### 👋 Hi there, I'm Harsha
+###  Hi, I'm Harsha
 
+Backend and DevOps Engineer with experience building scalable data pipelines, APIs, and cloud-native systems on AWS. Recently focused on ML-adjacent systems including RAG-based applications and vector search workflows.
 
+---
 
-#### 🛒 [E-commerce GraphQL API – System Design & Implementation](https://github.com/iamginjala/system-design-/tree/main/ecommerce-api)  
-A scalable GraphQL-based backend API for an e-commerce system.  
-Highlights include:
+###  Featured Projects
 
-- Schema design with types, queries, mutations, and relationships  
-- Product catalog, customer, order, and inventory modules  
-- Authorization, validation, and error handling  
-- Caching, pagination, batching / data loaders for efficiency  
-- Scalability strategies: caching, database sharding, load balancing  
-- Trade-offs in consistency, availability, fault tolerance  
+#### 🤖 DocuMind – RAG-Based Document Q&A System
+A document retrieval system that enables users to upload files and query them using semantic search and LLM-based responses.
 
-This project is both a learning reference and a showcase of GraphQL-driven backend architecture in an e-commerce domain.
+**Tech Stack:** FastAPI, LangGraph, PostgreSQL (pgvector), Docker, Kubernetes (KIND)
 
-#### [Realtime Chat API](https://github.com/iamginjala/realtime-chat-api/tree/main)
-WhatsApp-style messaging backend with WebSocket scaling Python Flask, Socket.IO, PostgreSQL, Redis and JWT
+- Built end-to-end pipeline for document ingestion, chunking, embeddings, and vector storage  
+- Implemented retrieval + LLM response flow for context-aware answers  
+- Designed system to handle dynamic document queries using vector similarity search  
+- Deployed locally using Docker and Kubernetes with CI/CD via GitHub Actions  
+- Currently extending toward AWS deployment for scalable inference  
 
-Highlights include:
+---
 
--  Redis pub/sub for horizontal scaling
--  JWT authentication over WebSocket
--  Optimized database schema with pagination
--  Real-time presence & delivery tracking
--  REST API for message history 
+#### 🛒 E-Commerce Backend API (REST + GraphQL)
+Backend system supporting product catalog, order management, and user workflows.
 
+**Tech Stack:** Python, FastAPI/Flask, GraphQL, PostgreSQL, Redis, Docker
 
-#### 💡 [Technical Interview Preparation](https://github.com/iamginjala/Technical-Interview-Preparation)
-Curated materials and my own solutions for coding and system design interviews.
+- Designed APIs for product inventory, orders, and user management  
+- Implemented caching using Redis to improve performance for read-heavy operations  
+- Built authentication and role-based access control (JWT + RBAC)  
+- Wrote unit and integration tests to ensure reliability of core workflows  
+- Containerized and automated deployments using CI/CD pipelines  
 
+---
 
+#### 💬 Realtime Chat API
+WhatsApp-style messaging backend supporting real-time communication.
+
+**Tech Stack:** Flask, Socket.IO, PostgreSQL, Redis, JWT
+
+- Built WebSocket-based messaging system with real-time delivery and presence tracking  
+- Implemented Redis pub/sub for horizontal scalability  
+- Designed database schema with pagination for efficient message retrieval  
+- Integrated REST APIs for message history and user interactions  
+
+---
+
+### 🛠️ Core Skills
+
+- **Backend:** Python, FastAPI, Flask, REST, GraphQL  
+- **Cloud & DevOps:** AWS, Terraform, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)  
+- **Data & Observability:** PostgreSQL, Redis, Prometheus, Grafana, CloudWatch  
+- **ML-Adjacent Systems:** RAG pipelines, vector databases, LangGraph  
 
 ---
 
 ### 💼 Open To
-Full-time opportunities in:
-- **Cloud Engineering**
-- **Product Engineering**
-- **Platform / Infrastructure Roles**
-- 
+
+- Backend Engineer (Python / APIs)  
+- DevOps / Platform Engineer  
+- Infrastructure / Cloud Engineer  
+- MLOps / AI Platform roles (where infra + backend are core)  
 
 ---
 
-### 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-vardhan-reddy-ginjala-a6a026146/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/iamginjala)
+### 📫 Connect
 
-
+- 💼 LinkedIn: https://www.linkedin.com/in/harsha-vardhan-reddy-ginjala-a6a026146/  
+- 💻 GitHub: https://github.com/iamginjala
 

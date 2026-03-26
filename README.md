@@ -19,7 +19,7 @@ A document retrieval system that enables users to upload files and query them us
 
 ---
 
-#### 🛒 E-Commerce Backend API (REST + GraphQL)
+#### 🛒 [E-Commerce Backend API (REST + GraphQL)](https://github.com/iamginjala/system-design-/tree/main/ecommerce-api)
 Backend system supporting product catalog, order management, and user workflows.
 
 **Tech Stack:** Python, FastAPI/Flask, GraphQL, PostgreSQL, Redis, Docker
@@ -32,7 +32,7 @@ Backend system supporting product catalog, order management, and user workflows.
 
 ---
 
-#### 💬 Realtime Chat API
+#### 💬 [Realtime Chat API](https://github.com/iamginjala/realtime-chat-api)
 WhatsApp-style messaging backend supporting real-time communication.
 
 **Tech Stack:** Flask, Socket.IO, PostgreSQL, Redis, JWT
@@ -64,6 +64,6 @@ WhatsApp-style messaging backend supporting real-time communication.
 
 ### 📫 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/harsha-vardhan-reddy-ginjala-a6a026146/  
-- 💻 GitHub: https://github.com/iamginjala
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsha-ginjala-1640373b2/)
+
 
